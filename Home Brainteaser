@@ -1,0 +1,31 @@
+<Doctype html>
+<html>
+<head>
+<style>
+.button {
+ color: black;
+ padding: 65px 65px;
+ text-align: center;
+ text-decoration: right
+ display: inline-block;
+ font-size: 23px;
+ margin: 17px 2px;
+ cursor: pointer;
+}
+
+.button1 {background-color:  #008CBA;} /*Blue */
+.button2 {background-color:  #808080;} /*Gray */
+.button3 {background-color:  #8B4513;} /*Brown */
+</style>
+<head>
+<body>
+
+<h1>Place the title of your email here </h1>
+<p>Responsive HTML e-mail template:</p>
+
+<button class="button button1">Send email</button>
+<button class="button button2">Copy email address</button>
+<button class="button button3">Delete email</button>
+
+</body>
+</html>
